@@ -18,4 +18,4 @@ RetiredForagerBee.prototype.gamble = function(treasure) {
 	this.treasureChest.push(treasure);
 }
 
-//test
+//test agian
